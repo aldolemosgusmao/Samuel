@@ -1,5 +1,6 @@
 package desafios;
 
+import java.util.Scanner;
 
 public class TesteFibonacci4 {
 
@@ -7,10 +8,8 @@ public class TesteFibonacci4 {
 	  
 		DesafioFibonacci4 fibo1 = new DesafioFibonacci4();
 		
-		
-		
 		Scanner scan = new Scanner (System.in);
-		System.out.println("Digite o número Fibonacci a ser encontrado: ");
+		System.out.println("Digite o nï¿½mero Fibonacci a ser encontrado: ");
 		long num = scan.nextInt();
 	
 	
