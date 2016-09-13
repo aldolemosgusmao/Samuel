@@ -1,6 +1,5 @@
 package desafios;
 
-import java.util.Scanner;
 
 public class TesteFibonacci4 {
 
